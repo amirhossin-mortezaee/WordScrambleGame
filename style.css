@@ -25,3 +25,10 @@ body {
     border-radius: 7px;
     background-color: #fff;
 }
+
+.container h2 {
+    font-size: 25px;
+    font-weight: 500;
+    padding: 18px 25px;
+    border-bottom: 1px solid #ccc;
+}
